@@ -252,11 +252,11 @@ function App() {
                     {index === 0 && <FaDatabase />}
 
                     {index === 1 && (
-                      <img src="https://cdn.simpleicons.org/python" alt="Python" />
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
                     )}
 
                     {index === 2 && (
-                      <img src="https://cdn.simpleicons.org/pandas" alt="Pandas" />
+                      <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" />
                     )}
 
                     {index === 3 && (
@@ -274,7 +274,9 @@ function App() {
                     {index === 6 && (
                       <img src="https://cdn.simpleicons.org/sqlite" alt="SQLite" />
                     )}
-                  {index === 7 && <FaChartLine />}
+                    {index === 7 && (
+                      <img src="https://cdn-icons-png.flaticon.com/512/2620/2620550.png" alt="Data Analytics" /> 
+                    )}
                   {index === 8 && <FaChartLine />}
                   {index === 9 && <FaBroom />}
                 </div>
