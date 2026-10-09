@@ -98,7 +98,7 @@ function App() {
           </nav>
 
           <a
-            href="https://github.com/raj-raja44"
+            href="/Raju_Otlam_Data_Analyst_Resume.pdf"
             target="_blank"
             rel="noreferrer"
             className="nav-resume"
@@ -161,7 +161,7 @@ function App() {
                     LinkedIn
                   </a>
 
-                  <a href="mailto:rajoutlam4646@gmail.com">
+                  <a href="mailto:rajuotlam4646@gmail.com">
                     <img
                       src="https://cdn.simpleicons.org/gmail/EA4335"
                       alt=""
@@ -468,7 +468,7 @@ function App() {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/raju-otlam/"
+              href="https://www.linkedin.com/in/raju-otlam-ab3795256"
               target="_blank"
               rel="noreferrer"
             >
