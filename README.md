@@ -1,16 +1,71 @@
-# React + Vite
+# Raju Otlam – Data Analyst Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my Data Analyst Portfolio! This website showcases my skills, projects, education, internship experience, and professional profile.
 
-Currently, two official plugins are available:
+## 🌐 Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[Visit My Portfolio](https://raju-data-analyst-portfolio.vercel.app)
 
-## React Compiler
+## 👨‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I am an aspiring Data Analyst with a foundation in SQL, Python, Microsoft Excel, and Power BI. I am interested in data cleaning, exploratory data analysis, data visualization, and generating meaningful insights to support data-driven decision-making.
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Vite
+
+## ✨ Portfolio Features
+
+- Professional introduction and profile
+- Technical skills and tools
+- Data Analyst projects
+- Internship experience
+- Education details
+- Resume access
+- Contact information
+- LinkedIn and GitHub links
+- Responsive website design
+
+## 🚀 Run the Project Locally
+
+**Prerequisites:** Node.js and npm installed.
+
+1. Clone the repository:
+
+   `git clone https://github.com/raj-raja44/Raju-Data-Analyst-Portfolio.git`
+
+2. Navigate to the project folder:
+
+   `cd Raju-Data-Analyst-Portfolio`
+
+3. Install dependencies:
+
+   `npm install`
+
+4. Start the development server:
+
+   `npm run dev`
+
+5. Open the local URL displayed in your terminal.
+
+## 📂 Project Structure
+
+- `public/` – Public assets and resume PDF
+- `src/` – React components and application styles
+- `index.html` – Main HTML entry point
+- `package.json` – Project dependencies and scripts
+
+## 🔗 Connect With Me
+
+- **LinkedIn:** https://linkedin.com/in/raju-otlam-ab3795256
+- **GitHub:** https://github.com/raj-raja44
+- **Portfolio:** https://raju-data-analyst-portfolio.vercel.app
+- **Email:** rajuotlam4646@gmail.com
+
+---
+
+Thank you for visiting my portfolio!
